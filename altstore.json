@@ -1,0 +1,38 @@
+{
+    "name": "FD Source",
+    "tintColor": "#4185A9",
+    "apps": [
+        {
+            "name": "Findostavka",
+            "bundleIdentifier": "ru.findostavka",
+            "marketplaceID": "6742402814",
+            "developerName": "Findostavka",
+            "localizedDescription": "Findostavka app",
+            "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
+            "versions": [
+                {
+                    "version": "1.2.258",
+                    "buildVersion": "288",
+                    "date": "2025-03-03T10:00:00+03:00",
+                    "downloadURL": "https://storage.yandexcloud.net/fd-dev/findelivery.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=izw1GsJKMxfDw6bKZA1h%2F20250303%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20250303T070715Z&X-Amz-Expires=2592000&X-Amz-Signature=C52F92DF78BD96CC06E2FC969C950443D930F91C9F13DCF3106C41237C77CDED&X-Amz-SignedHeaders=host",
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "Для завершения доставки необходимо сделать фото документов",
+                    "NSFaceIDUsageDescription": "Для ограничения доступа к документам, необходима авторизация",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "Доступ к голокации нужен для проверки места встречи с клиентом в случае поступления жалоб",
+                    "NSLocationUsageDescription": "Доступ к голокации нужен для проверки места встречи с клиентом в случае поступления жалоб",
+                    "NSLocationWhenInUseUsageDescription": "Доступ к голокации нужен для проверки места встречи с клиентом в случае поступления жалоб",
+                    "NSMicrophoneUsageDescription": "Access to Microphone",
+                    "NSMotionUsageDescription": "Access fall detection event data",
+                    "NSPhotoLibraryUsageDescription": "Access to PhotoLibrary"
+                }
+            }
+        },
+    ],
+    "news": [
+    ]
+}
