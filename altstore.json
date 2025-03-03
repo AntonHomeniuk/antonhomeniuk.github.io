@@ -19,6 +19,8 @@
             ],
             "appPermissions": {
                 "entitlements": [
+                    "beta-reports-active",
+                    "aps-environment"
                 ],
                 "privacy": {
                     "NSCameraUsageDescription": "Для завершения доставки необходимо сделать фото документов",
