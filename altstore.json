@@ -14,7 +14,7 @@
                     "buildVersion": "288",
                     "size": 72089190,
                     "date": "2025-03-03T10:00:00+03:00",
-                    "downloadURL": "https://storage.yandexcloud.net/fd-dev/findelivery.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=izw1GsJKMxfDw6bKZA1h%2F20250303%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20250303T070715Z&X-Amz-Expires=2592000&X-Amz-Signature=C52F92DF78BD96CC06E2FC969C950443D930F91C9F13DCF3106C41237C77CDED&X-Amz-SignedHeaders=host",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NDAyMzAwNSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDQwMjI5NDYtZmluZGVsaXZlcnkuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5LmlwYSJ9.oM-NeJEW_03zfiKuJ4bsGJ4KKkwkFjaI_V-iA8hdUF8",
                 }
             ],
             "appPermissions": {
