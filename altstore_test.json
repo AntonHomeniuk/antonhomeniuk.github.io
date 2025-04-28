@@ -1,0 +1,40 @@
+{
+    "name": "FD Source",
+    "tintColor": "#4185A9",
+    "apps": [
+        {
+            "name": "Findostavka",
+            "bundleIdentifier": "ru.findostavka",
+            "developerName": "Findostavka",
+            "localizedDescription": "Findostavka app",
+            "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
+            "versions": [
+                {
+                    "version": "1.2.258",
+                    "buildVersion": "288",
+                    "size": 72089245,
+                    "date": "2025-03-03T10:00:00+03:00",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NDAyMzAwNSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDQwMjI5NDYtZmluZGVsaXZlcnkuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5LmlwYSJ9.oM-NeJEW_03zfiKuJ4bsGJ4KKkwkFjaI_V-iA8hdUF8",
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "beta-reports-active",
+                    "aps-environment"
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "Для завершения доставки необходимо сделать фото документов",
+                    "NSFaceIDUsageDescription": "Для ограничения доступа к документам, необходима авторизация",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "Доступ к голокации нужен для проверки места встречи с клиентом в случае поступления жалоб",
+                    "NSLocationUsageDescription": "Доступ к голокации нужен для проверки места встречи с клиентом в случае поступления жалоб",
+                    "NSLocationWhenInUseUsageDescription": "Доступ к голокации нужен для проверки места встречи с клиентом в случае поступления жалоб",
+                    "NSMicrophoneUsageDescription": "Access to Microphone",
+                    "NSMotionUsageDescription": "Access fall detection event data",
+                    "NSPhotoLibraryUsageDescription": "Access to PhotoLibrary"
+                }
+            }
+        },
+    ],
+    "news": [
+    ]
+}
