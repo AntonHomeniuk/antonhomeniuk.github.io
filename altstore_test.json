@@ -16,6 +16,13 @@
                     "date": "2025-03-03T10:00:00+03:00",
                     "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NDAyMzAwNSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDQwMjI5NDYtZmluZGVsaXZlcnkuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5LmlwYSJ9.oM-NeJEW_03zfiKuJ4bsGJ4KKkwkFjaI_V-iA8hdUF8",
                 }
+                {
+                    "version": "1.2.275",
+                    "buildVersion": "305",
+                    "size": 72593294,
+                    "date": "2025-03-03T10:00:00+03:00",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NTgyNDYwMiwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDU4MjQ1MjItZmluZGVsaXZlcnkgMS4yLjI3NSszMDUgcHJvZC5pcGEiLCJNb2RlbE5hbWUiOiJJbnN0cnVjdGlvbiIsIkZpbGVuYW1lIjoiZmluZGVsaXZlcnkgMS4yLjI3NSszMDUgcHJvZC5pcGEifQ.orUlA1K9OXNfudgfn4N3qlM2NClMx1ZYqQlFtSv5Nws",
+                }
             ],
             "appPermissions": {
                 "entitlements": [
