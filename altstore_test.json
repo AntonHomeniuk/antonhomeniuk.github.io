@@ -10,10 +10,18 @@
             "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
             "versions": [
                 {
+                    "version": "1.2.277",
+                    "buildVersion": "30",
+                    "size": 72654013,
+                    "date": "2025-05-019T10:00:00+03:00",
+                    "localizedDescription": "Исправления и улучшения.",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NzYzNzI3NSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDc2MzcyMDQtZmluZGVsaXZlcnkgMS4yLjI3NyszMDcgcHJvZC5pcGEiLCJNb2RlbE5hbWUiOiJJbnN0cnVjdGlvbiIsIkZpbGVuYW1lIjoiZmluZGVsaXZlcnkgMS4yLjI3NyszMDcgcHJvZC5pcGEifQ.yTYvRMLCDUu__HpMT2hyk5Zgctk4hJWTRbSWEvLmtSc",
+                },
+                {
                     "version": "1.2.275",
                     "buildVersion": "305",
                     "size": 72593294,
-                    "date": "2025-03-03T10:00:00+03:00",
+                    "date": "2025-04-10T10:00:00+03:00",
                     "localizedDescription": "Добавлено согласование, улучшен раздел материальных ценностей.",
                     "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NTgyNDYwMiwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDU4MjQ1MjItZmluZGVsaXZlcnkgMS4yLjI3NSszMDUgcHJvZC5pcGEiLCJNb2RlbE5hbWUiOiJJbnN0cnVjdGlvbiIsIkZpbGVuYW1lIjoiZmluZGVsaXZlcnkgMS4yLjI3NSszMDUgcHJvZC5pcGEifQ.orUlA1K9OXNfudgfn4N3qlM2NClMx1ZYqQlFtSv5Nws",
                 },
