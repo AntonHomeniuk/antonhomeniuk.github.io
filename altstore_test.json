@@ -10,6 +10,8 @@
             "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
             "versions": [
                 {
+                    "version": "1.2.277",
+                    "buildVersion": "307",
                     "size": 72653991,
                     "date": "2025-05-19T10:00:00+03:00",
                     "localizedDescription": "Исправления и улучшения.",
