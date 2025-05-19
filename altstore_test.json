@@ -15,8 +15,23 @@
                     "size": 72653991,
                     "date": "2025-05-19T10:00:00+03:00",
                     "localizedDescription": "Исправления и улучшения.",
-                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NzYzOTAwMSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDc2Mzg5ODMtZmluZGVsaXZlcnkgMS4yLjI3NyszMDcgcHJvZCAoMikuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5IDEuMi4yNzcrMzA3IHByb2QgKDIpLmlwYSJ9.LqNe35DPw-M4Z6lsV4AqIgMnXhtHw4Cu96RgxdAyHmE",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NzY0MTI0MCwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDc2NDEyMTUtZmluZGVsaXZlcnkgKDMpLmlwYSIsIk1vZGVsTmFtZSI6Ikluc3RydWN0aW9uIiwiRmlsZW5hbWUiOiJmaW5kZWxpdmVyeSAxLjIuMjc3KzMwNyBwcm9kLmlwYSJ9.v7gwqHkAhi_l__Run3Hq5lIDv8Ugf7KR2rxSmzVmOMw",
                 },
+                {
+                    "version": "1.2.275",
+                    "buildVersion": "305",
+                    "size": 72593294,
+                    "date": "2025-04-28T10:00:00+03:00",
+                    "localizedDescription": "Добавлено согласование, улучшен раздел материальных ценностей.",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NTgyNDYwMiwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDU4MjQ1MjItZmluZGVsaXZlcnkgMS4yLjI3NSszMDUgcHJvZC5pcGEiLCJNb2RlbE5hbWUiOiJJbnN0cnVjdGlvbiIsIkZpbGVuYW1lIjoiZmluZGVsaXZlcnkgMS4yLjI3NSszMDUgcHJvZC5pcGEifQ.orUlA1K9OXNfudgfn4N3qlM2NClMx1ZYqQlFtSv5Nws",
+                },
+                {
+                    "version": "1.2.258",
+                    "buildVersion": "288",
+                    "size": 72089245,
+                    "date": "2025-03-03T10:00:00+03:00",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NDAyMzAwNSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDQwMjI5NDYtZmluZGVsaXZlcnkuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5LmlwYSJ9.oM-NeJEW_03zfiKuJ4bsGJ4KKkwkFjaI_V-iA8hdUF8",
+                }
             ],
             "appPermissions": {
                 "entitlements": [
