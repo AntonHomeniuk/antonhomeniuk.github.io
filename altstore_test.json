@@ -10,20 +10,11 @@
             "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
             "versions": [
                 {
-                    "version": "1.2.277",
-                    "buildVersion": "307",
                     "size": 72653991,
                     "date": "2025-05-19T10:00:00+03:00",
                     "localizedDescription": "Исправления и улучшения.",
                     "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NzYzOTAwMSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDc2Mzg5ODMtZmluZGVsaXZlcnkgMS4yLjI3NyszMDcgcHJvZCAoMikuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5IDEuMi4yNzcrMzA3IHByb2QgKDIpLmlwYSJ9.LqNe35DPw-M4Z6lsV4AqIgMnXhtHw4Cu96RgxdAyHmE",
                 },
-                {
-                    "version": "1.2.258",
-                    "buildVersion": "288",
-                    "size": 72089245,
-                    "date": "2025-03-03T10:00:00+03:00",
-                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0NDAyMzAwNSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDQwMjI5NDYtZmluZGVsaXZlcnkuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6ImZpbmRlbGl2ZXJ5LmlwYSJ9.oM-NeJEW_03zfiKuJ4bsGJ4KKkwkFjaI_V-iA8hdUF8",
-                }
             ],
             "appPermissions": {
                 "entitlements": [
