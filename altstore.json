@@ -9,7 +9,15 @@
             "localizedDescription": "Findostavka app",
             "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
             "versions": [
-                 {
+                {
+                    "version": "1.2.281",
+                    "buildVersion": "311",
+                    "size": 72667168,
+                    "date": "2025-05-29T10:00:00+03:00",
+                    "localizedDescription": "Исправления и улучшения.",
+                    "downloadURL": "https://staging.findostavka.online/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc0ODUyNTk1NSwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NDg1MjU5MTAtcHJkMS4yLjI4MSszMTEuaXBhIiwiTW9kZWxOYW1lIjoiSW5zdHJ1Y3Rpb24iLCJGaWxlbmFtZSI6InByZDEuMi4yODErMzExLmlwYSJ9.dZZ3eU6IOoGVEeTLo4jkFA5rIbC3m4UiJ5uiFyNE104",
+                },
+                {
                     "version": "1.2.278",
                     "buildVersion": "308",
                     "size": 72653991,
