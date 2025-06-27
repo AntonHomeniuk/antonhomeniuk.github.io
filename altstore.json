@@ -10,6 +10,14 @@
             "iconURL": "https://optim.tildacdn.com/tild3335-6230-4630-b164-323030343336/-/resize/920x/-/format/webp/_CTA_1.png",
             "versions": [
                 {
+                    "version": "1.2.288",
+                    "buildVersion": "318",
+                    "size": 72720236,
+                    "date": "2025-06-26T10:00:00+03:00",
+                    "localizedDescription": "Улучшения в карте.",
+                    "downloadURL": "https://staging.findostavka.ru/api/v1/d?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzg0MzAzMTIsImlhdCI6MTc1MDkzMTcxNCwiS2V5Ijoi0JzQnyDQpNC40L3QtNC-0YHRgtCw0LLQutCwLTMyLzE3NTA5MzE2MzgtcHJvZF8xLjIuMjg4KzMxOC5pcGEiLCJNb2RlbE5hbWUiOiJJbnN0cnVjdGlvbiIsIkZpbGVuYW1lIjoicHJvZF8xLjIuMjg4KzMxOC5pcGEifQ.bSHr4ooGCp9nODKakZLwKrAZmGzLb5FjadhqqRfqAfs",
+                },
+                {
                     "version": "1.2.281",
                     "buildVersion": "311",
                     "size": 72667168,
